@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Naves.io",
-	"short_name": "Naves.io",
+	"name": "naves.io",
+	"short_name": "naves.io",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
