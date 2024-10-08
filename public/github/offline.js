@@ -1,0 +1,32 @@
+﻿{
+	"version": 1728416633,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/background.png",
+		"images/nave-sheet0.png",
+		"images/planeta1-sheet0.png",
+		"images/floorsolido-sheet0.png",
+		"images/explosão-sheet0.png",
+		"images/explosão-sheet1.png",
+		"images/explosão-sheet2.png",
+		"images/naveinteira.png",
+		"images/navedestruída.png",
+		"images/planeta2-sheet0.png",
+		"images/planeta3-sheet0.png",
+		"media/blessing.ogg",
+		"media/explode3.ogg",
+		"media/interlude.ogg",
+		"media/blessing.m4a",
+		"media/explode3.m4a",
+		"media/interlude.m4a",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
